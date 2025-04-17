@@ -1,0 +1,31 @@
+name: Fusion SOAR action with API integration
+description: Uses JSONPlaceholder API to create a Fusion SOAR workflow action
+logo: ""
+vendor: ""
+vendor_products: []
+use_case: ""
+manifest_version: ""
+ignored: []
+ui:
+  homepage: ""
+  extensions: []
+  pages: {}
+  dashboards: {}
+  navigation: {}
+api_integrations:
+  - name: JSONPlaceholder
+    description: ""
+    path: api-integrations/JSONPlaceholder.json
+rtr_scripts: []
+collections: []
+auth:
+  scopes: []
+  permissions: {}
+  roles: []
+functions: []
+workflows: []
+parsers: []
+logscale:
+  saved_searches: []
+lookup_files: []
+docs: {}
