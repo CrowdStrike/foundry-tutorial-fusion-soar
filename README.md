@@ -14,9 +14,10 @@ This code is the result of doing the Falcon Foundry [Create a Custom Fusion SOAR
 
 ## Getting Started
 
-[Download this repository as a zip file](https://github.com/CrowdStrike/foundry-tutorial-fusion-soar/archive/refs/heads/main.zip).
-
-[Log in to the Falcon console](https://falcon.crowdstrike.com/login?unilogin=true) and go to **Foundry** > **App manager**. Click **Import app** and select the zip file you downloaded. Click **Import**.
+1. [Download this repository as a zip file](https://github.com/CrowdStrike/foundry-tutorial-fusion-soar/archive/refs/heads/main.zip).
+2. [Log in to the Falcon console](https://falcon.crowdstrike.com/login?unilogin=true) and go to **Foundry** > **App manager**. 
+3. Click **Import app** and select the zip file you downloaded.
+4. Click **Import**.
 
 > [!TIP]
 > If you get an error that the name already exists, change the name to something unique to your CID when importing the app.
@@ -27,6 +28,7 @@ This example uses the following CrowdStrike products:
 
 * [Falcon Platform](https://www.crowdstrike.com/platform/)
 * [Falcon Foundry](https://www.crowdstrike.com/platform/next-gen-siem/falcon-foundry/)
+* [Falcon Fusion SOAR](https://www.crowdstrike.com/platform/next-gen-siem/falcon-fusion/)
 
 ## Help
 
