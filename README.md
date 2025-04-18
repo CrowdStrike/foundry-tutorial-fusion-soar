@@ -1,5 +1,5 @@
-![CrowdStrike FalconPy](/images/cs-logo.png#gh-light-mode-only)
-![CrowdStrike FalconPy](/images/cs-logo-red.png#gh-dark-mode-only)
+![CrowdStrike](/images/cs-logo.png#gh-light-mode-only)
+![CrowdStrike](/images/cs-logo-red.png#gh-dark-mode-only)
 
 [![CrowdStrike Subreddit](https://img.shields.io/badge/-r%2Fcrowdstrike-white?logo=reddit&labelColor=gray&link=https%3A%2F%2Freddit.com%2Fr%2Fcrowdstrike)](https://reddit.com/r/crowdstrike)<br/>
 
