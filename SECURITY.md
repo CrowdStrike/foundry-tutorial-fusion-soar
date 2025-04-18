@@ -28,4 +28,4 @@ Upon receiving a security bug report, the issue will be assigned to one of the p
 
 ## Comments
 
-If you have suggestions on how this process could be improved, please let us know by [starting a new discussion](https://github.com/CrowdStrike/foundry-tutorial-fusion-soar/discussions).
+If you have suggestions on how this process could be improved, please let us know by [creating a new issue](https://github.com/CrowdStrike/foundry-tutorial-fusion-soar/issues).
