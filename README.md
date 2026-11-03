@@ -8,7 +8,7 @@
 > [!IMPORTANT]  
 > To view this tutorial and import the app, you need access to the Falcon console.
 
-This code is the result of doing the Falcon Foundry [Create a Custom Fusion SOAR Workflow Action](https://falcon.crowdstrike.com/documentation/page/yfa47a8d/create-a-custom-fusion-soar-workflow-action) tutorial.
+This code is the result of doing the Falcon Foundry [Create a Custom Fusion SOAR Workflow Action](https://docs.crowdstrike.com/access?ft:originId=yfa47a8d) tutorial.
 
 ## Prerequisites
 
