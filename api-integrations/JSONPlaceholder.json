@@ -21,12 +21,12 @@
             "required": true,
             "schema": {
               "title": "ID",
-              "type": "string"
+              "type": "integer"
             }
           }
         ],
         "responses": {
-          "200": {
+          "default": {
             "content": {
               "application/json": {
                 "schema": {
@@ -100,7 +100,8 @@
                   "type": "array"
                 }
               }
-            }
+            },
+            "description": ""
           }
         },
         "x-cs-operation-config": {

@@ -4,7 +4,7 @@ logo: ""
 vendor: ""
 vendor_products: []
 use_case: ""
-manifest_version: ""
+manifest_version: "2023-05-09"
 ignored: []
 ui:
   homepage: ""
